@@ -2,7 +2,7 @@
   "name": "protractor-recorder",
   "version": "0.0.1",
   "dependencies": {
-    "protractor": "^3.0.0"
+    "protractor": "^5.1.2"
   },
   "scripts": {
     "test": "gulp test",
