@@ -53,10 +53,10 @@ $ cd protractor-recorder
 Execute the following commands to install npm and bower dependencies to Protractor Recorder:
 
 ``` shell
-$ npm install
+$ npm run install:npm
 ```
 ``` shell
-$ bower install
+$ npm run install:bower
 ```
 
 ## Running Protractor Recorder
